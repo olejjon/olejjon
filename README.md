@@ -6,3 +6,4 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=olejjon&style=flat-square&color=blue" alt=""/>
