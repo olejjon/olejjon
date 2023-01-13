@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="100" align="center"/>
 </div>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://vk.com/olejjon_123)">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/olejjon_123">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
   </a>
 </div>
