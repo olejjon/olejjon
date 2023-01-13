@@ -19,6 +19,11 @@
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>  
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100" align="center"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/olejjon_123" align="center">
