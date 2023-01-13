@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://vk.com/olejjon_123" align="center">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge" />
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=olejjon&style=flat-square&color=blue" alt=""/>
