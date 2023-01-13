@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="100" align="center"/>
+  <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100" align="center"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/olejjon_123" align="center">
